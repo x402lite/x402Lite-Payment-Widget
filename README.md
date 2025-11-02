@@ -26,8 +26,8 @@ This open-source demo shows how to embed **micro-transaction payments** in any a
 4. Click “Pay 0.01 USDC” — see a live 402 JSON response.
 5. Integrate this snippet into your dApp or agent UI.
 
-⚡ Example Response
-    ```bash
+##⚡ Example Response
+   ```bash
    {
   "x402Version": 1,
   "resource": "https://api.x402lite.com/api/x402",
@@ -37,8 +37,8 @@ This open-source demo shows how to embed **micro-transaction payments** in any a
   "status": "402 Payment Required"
    }
 
-🌐 Learn More 
-🔗 x402 Protocol Docs[https://www.x402.org/]
-🧩 ERC-8004 Standard[https://ethereum.org/en/developers/docs/standards/tokens/]
-🧠 x402Lite Website [https://x402lite.com
+## 🌐 Learn More 
+🔗 x402 Protocol Docs[https://www.x402.org/]<br>
+🧩 ERC-8004 Standard[https://ethereum.org/en/developers/docs/standards/tokens/]<br>
+🧠 x402Lite Website [https://x402lite.com]<br>
 💬 Community on X [https://x.com/x402Lite]
