@@ -35,7 +35,7 @@ This open-source demo shows how to embed **micro-transaction payments** in any a
 ```json
 {
   "x402Version": 1,
-  "resource": "https://api.x402lite.com/api/x402",
+  "resource": "https://api.x402lite.com/x402",
   "asset": "USDC",
   "amount": "0.01",
   "description": "Access premium feature",
