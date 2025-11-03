@@ -5,7 +5,7 @@ const payButton = document.getElementById("payButton");
 const responseBox = document.getElementById("responseBox");
 
 // Example endpoint — replace with your live x402Lite Worker API
-const API_URL = "https://api.x402lite.com/api/x402";
+const API_URL = "https://api.x402lite.com/x402";
 
 payButton.addEventListener("click", async () => {
   responseBox.textContent = "⏳ Initiating payment via x402...";
