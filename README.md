@@ -24,7 +24,7 @@ This open-source demo shows how to embed **micro-transaction payments** in any a
 2. Open `index.html` in your browser or deploy on **Replit**, **Vercel**, or any static host.
 3. Update the endpoint in `script.js`:
    ```js
-   const API_URL = "https://api.x402lite.com/api/x402";
+   const API_URL = "https://api.x402lite.com/x402";
    ```
 4. Click **“Pay 0.01 USDC”** — see a live 402 JSON response.
 5. Integrate this snippet into your dApp or agent UI.
